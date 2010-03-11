@@ -1,3 +1,5 @@
+# THIS IS NO LONGER NEEDED!
+
 php_value include_path .:/usr/local/php/lib/php:/path/to/my/site
 php_value auto_prepend_file bootstrap.php
 php_value magic_quotes_gpc 0
